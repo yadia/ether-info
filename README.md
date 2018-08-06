@@ -86,6 +86,8 @@ truggle migrate
 
  # Extra Resources
  - [Truffle Frameworks](truffleframework.com/boxes)
+ - [Ethereum Package Manager](https://www.ethpm.com/)
+ - [Solidity Docs](https://solidity.readthedocs.io/en/latest/types.html)
  
  
  
