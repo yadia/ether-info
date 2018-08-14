@@ -27,7 +27,8 @@ npm install -g truffle
 npm install -g ganache-cli
 ```
 
--
+- [Web3 Javascript library](https://github.com/ethereum/web3.js)
+
 
 ## Petshop tutorial
 **Variables**
@@ -52,13 +53,12 @@ npm install -g ganache-cli
  	- Takes one parameter
  	- Public
  	- returns uint to indicate success
+5. Compile Contract. ``` truffle compile ```
+6. Create migration file for the Adoption cotnract
+7. Launch Ganache
+8. Migrate contracts to the blockchain ``` truffle migrate ```
+9. Program  result check Adoption.sol file in contacts folder
+10. Create Test file
+11. Run test ``` truffle test ```
 
-````
-pragma solidity ^0.4.17;
-
-contract Adoption{
-
-}
-
-````
 

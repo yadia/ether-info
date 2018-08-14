@@ -11,12 +11,24 @@ npm install -g truffle
 ```
 npm install -g ganache-cli
 ```
+ - Working with Ganache and Truffle [link](https://truffleframework.com/docs/ganache/using).
 
-Working with Ganache and Truffle [link](https://truffleframework.com/docs/ganache/using).
+3. [Ganache App](https://truffleframework.com/ganache) Mac app to locally deploy blockchain
 
 
-## Interface with Remix
-http://remix.ethereum.org
+4. [Remix IDE](http://remix.ethereum.org)
+
+
+# Extra Resources
+ - [Truffle Frameworks](truffleframework.com/boxes)
+ - [Ethereum Package Manager](https://www.ethpm.com/)
+ - [Solidity Docs](https://solidity.readthedocs.io/en/latest/types.html)
+
+ 
+## Sublime Text IDE
+Must have packages if you are using Sublime to code some solidty. Use Sublime Package control to install it.
+
+- [Ethereum](https://packagecontrol.io/packages/Ethereum) Ethereum Solidity Language Syntaxt for Sublime Text
 
 ## Getting started with Truffle
 ### To create a new project
@@ -84,10 +96,6 @@ Writing artifacts to ./build/contracts
 truggle migrate
 ```
 
- # Extra Resources
- - [Truffle Frameworks](truffleframework.com/boxes)
- - [Ethereum Package Manager](https://www.ethpm.com/)
- - [Solidity Docs](https://solidity.readthedocs.io/en/latest/types.html)
  
  
  
